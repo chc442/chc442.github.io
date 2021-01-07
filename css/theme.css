@@ -14,6 +14,7 @@ html {
 }
 
 body {
+        background-color: eff#;
 	font-size: 1.0em; /* currently ems cause chrome bug misinterpreting rems on body element */
 	line-height: 1.6;
 	font-weight: 400;
