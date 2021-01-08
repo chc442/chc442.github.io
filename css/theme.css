@@ -181,19 +181,24 @@ hr {
 
 .hero h1 {
 	margin: 0;
-	opacity: .9;
+	opacity: 1;
 }
 
 
 .hero-text {
 	padding: 25px; 
 	text-align: center;
+        color: #fff;
+        margin: 0 auto;
 	width: 100%;
+        /* background: rgba(200, 200, 222, 0.8); */
+	opacity: 1;
 }
 
 .hero-text p {
+        color: #fff;
 	margin: 0;
-	opacity: .7;
+	opacity: 0.9;
 }
 
 .highlight {
