@@ -57,9 +57,9 @@ img {
 }
 
 .circular_image {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
+  width: 250px;
+  height: auto;
+  /* border-radius: 50%; */
   overflow: hidden;
   background-color: blue;
   /* commented for demo
