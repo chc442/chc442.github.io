@@ -56,12 +56,23 @@ img {
 	height: auto;
 }
 
-.circular_image {
+
+.prof_image {
   width: 250px;
   height: auto;
-  /* border-radius: 50%; */
   overflow: hidden;
-  background-color: blue;
+}
+.prof_image img{
+  width:100%;
+}
+
+
+.circular_image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  /* background-color: white; */ 
   /* commented for demo
   float: left;
   margin-left: 125px;
