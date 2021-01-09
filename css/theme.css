@@ -415,8 +415,8 @@ footer li a{
 
 
 .secondary-footer {
-	background-color: #e1e0e0;
-	padding: 1rem;
+	background-color: lightgrey; /* was #e1e0e0;*/
+	padding: 0.5rem;
 	margin: 0 auto;
 }
 
