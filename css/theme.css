@@ -184,6 +184,12 @@ hr {
 	margin-right: 1rem;
 }
 
+.navigation-bar nav a:hover{
+	color: #bfbfbf;
+	text-decoration: none;
+	margin-right: 1rem;
+}
+
 
 .hero {
 	background-position: center;
