@@ -87,6 +87,11 @@ img {
   width:100%;
 }
 
+.social_button{
+  width: 40px;
+  height: auto;
+}
+
 section {
 	margin: 10rem auto;
 }
