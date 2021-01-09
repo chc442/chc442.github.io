@@ -14,7 +14,7 @@ html {
 }
 
 body {
-        background-color: eff#;
+        background-color: #e6f7ff;
 	font-size: 1.0em; /* currently ems cause chrome bug misinterpreting rems on body element */
 	line-height: 1.6;
 	font-weight: 400;
@@ -45,10 +45,10 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-	color: #1EAEDB; 
+	color:  #9900cc; /* originally #1EAEDB; */
 }
 a:hover {
-	color: #0FA0CE; 
+	color: #ff3385; /* originally #0FA0CE; */ 
 }
 
 img {
