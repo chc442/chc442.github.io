@@ -48,8 +48,10 @@ a {
 	color:  #9900cc; /* originally #1EAEDB; */
 }
 a:hover {
-	color: #ff3385; /* originally #0FA0CE; */ 
+	color: #c61aff; /* originally #0FA0CE; */ 
 }
+
+
 
 img {
 	width: 100%;
